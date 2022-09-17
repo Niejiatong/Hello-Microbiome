@@ -3,3 +3,4 @@ kimchi
 sauerkraut
 beer
 pickles
+vinegar
